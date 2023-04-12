@@ -14,7 +14,7 @@
 	<tbody>
 		<tr>
 			<td>Joan Escamilla</td>
-			<td><a></a></td>
+			<td><a>https://github.com/jescamilla1</a></td>
 		</tr>
 		<tr>
 			<td>Kevin Burgos</td>
