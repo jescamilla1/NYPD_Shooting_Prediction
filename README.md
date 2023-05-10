@@ -1,7 +1,7 @@
 <h1 align='center'> <em> NYPD Shooting Prediction </em> </h1>
 <hr>
 <h3>Kaggle Link: https://www.kaggle.com/code/stpeteishii/ny-shooting-incidents </h3>
-<h3>Learning Method: Potentially Random Forest</h3>
+<h3>Learning Method: </h3>
 
 <h3>Team</h3>
 <table>
